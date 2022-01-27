@@ -28,7 +28,7 @@ Released under the MIT License
 [npm-image]: https://img.shields.io/npm/v/hexo-pangu-better?style=flat-square
 [lic-image]: https://img.shields.io/npm/l/hexo-pangu-better?style=flat-square
 
-[size-image]: https://img.shields.io/github/languages/code-size/next-theme/hexo-pangu-better?style=flat-square
+[size-image]: https://img.shields.io/github/languages/code-size/rqh656418510/hexo-pangu-better?style=flat-square
 [dm-image]: https://img.shields.io/npm/dm/hexo-pangu-better?style=flat-square
 [dt-image]: https://img.shields.io/npm/dt/hexo-pangu-better?style=flat-square
 

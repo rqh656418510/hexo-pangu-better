@@ -1,0 +1,23 @@
+{
+  "name": "hexo-pangu-better",
+  "version": "0.2.1",
+  "description": "Server side pangu.js filter for Hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/rqh656418510/hexo-pangu-better.git",
+  "keywords": [
+    "Hexo",
+    "NexT",
+    "pangu"
+  ],
+  "author": "656418510@qq.com",
+  "readme": "https://github.com/rqh656418510/hexo-pangu-better#readme",
+  "license": "MIT",
+  "homepage": "https://github.com/rqh656418510/hexo-pangu-better",
+  "dependencies": {
+    "jsdom": "^17.0.0",
+    "pangu": "^4.0.7"
+  }
+}

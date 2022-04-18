@@ -18,8 +18,8 @@ $ npm install hexo-pangu-better --save
 ## Expansion
 
 - Add enable switch
+- Only render for Markdown file
 - Support disable pangu for an article
-- Only render for Markdown and HTML file
 
 ## Usage
 
@@ -30,13 +30,13 @@ pangu:
 
 ## Disable for an article
 
-You can disable pangu for an article by `unpangu: true`.
+You can disable pangu for an article by `pangu: false`.
 
 ```
 ---
 title: Hexo add darkmode
 tags: [Hexo]
-unpangu: true
+pangu: false
 keywords: [Hexo, Darkmode]
 date: 2021-01-12 22:25:49
 updated: 2021-01-12 22:25:49

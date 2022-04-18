@@ -1,6 +1,6 @@
 {
   "name": "hexo-pangu-better",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Server side pangu.js filter for Hexo.",
   "main": "index.js",
   "scripts": {
